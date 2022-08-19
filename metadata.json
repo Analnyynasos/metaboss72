@@ -1,0 +1,72 @@
+{
+  "name": "Sentry #5324",
+  "symbol": "SENTRIES",
+  "description": "A host of Sentries living in Decentral City and running the Solana Network.",
+  "seller_fee_basis_points": 200,
+  "image": "https://arweave.net/iddoEcAy2QoRdvCKMrHZlDAK6llFr5c6F_6RZXeqLW0?ext=png",
+  "attributes": [
+    {
+      "trait_type": "District",
+      "value": "East"
+    },
+    {
+      "trait_type": "Power",
+      "value": "0"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Beige Hardshell"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Amber Open"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Purple Froggy"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Shade Angel"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Shade Neko"
+    },
+    {
+      "trait_type": "Ornament",
+      "value": "Shade Meido"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shade Angel"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Steel Asul"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Shade Nin nin"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
